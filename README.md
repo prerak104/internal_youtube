@@ -26,3 +26,11 @@ There are two tables created using mySQL:
 
 When a user logs in, the 'id' of the images to which he has access to is passed to get.php which takes the image data as
 input and converts it to 'jpeg' format and the images are displayed on the user's page when he logs in.
+
+
+Login Details of admin:
+
+username: admin
+pass: admin
+
+The table has 6 users with usernaames and passwords: user01,pass01; user02,pass02 and so on.
