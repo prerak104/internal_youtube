@@ -10,14 +10,9 @@ config.php: Connects to the database internal_youtube.
 Method by which the project works:
 
 There are two tables created using mySQL:
-1. table2 : Contains columns:
-
-  user        pass
+1. table2 : Contains columns:user &  pass
   
-2. table5 : Contains Columns:
-
-
-  id          image         access(contains list of usernames having access to the file)
+2. table5 : Contains Columns:id ,image & access(contains list of usernames having access to the file)
   
   
 
